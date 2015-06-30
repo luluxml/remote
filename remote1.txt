@@ -1,4 +1,3 @@
 local test
 aaa
-aaa
 bbb
